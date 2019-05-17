@@ -1,0 +1,16 @@
+C:\Users\julia\source\repos\task2\task2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\julia\source\repos\task2\task2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\julia\source\repos\task2\task2\bin\Debug\nunit.engine.dll
+C:\Users\julia\source\repos\task2\task2\bin\Debug\nunit.engine.api.dll
+C:\Users\julia\source\repos\task2\task2\bin\Debug\task2.dll
+C:\Users\julia\source\repos\task2\task2\bin\Debug\task2.pdb
+C:\Users\julia\source\repos\task2\task2\bin\Debug\nunit.framework.dll
+C:\Users\julia\source\repos\task2\task2\bin\Debug\WebDriver.dll
+C:\Users\julia\source\repos\task2\task2\bin\Debug\nunit.framework.pdb
+C:\Users\julia\source\repos\task2\task2\bin\Debug\nunit.framework.xml
+C:\Users\julia\source\repos\task2\task2\bin\Debug\WebDriver.xml
+C:\Users\julia\source\repos\task2\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\task2\task2\obj\Debug\task2.csproj.CopyComplete
+C:\Users\julia\source\repos\task2\task2\obj\Debug\task2.dll
+C:\Users\julia\source\repos\task2\task2\obj\Debug\task2.pdb
