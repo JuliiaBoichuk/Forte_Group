@@ -74,12 +74,6 @@ namespace task2
             IWebElement oldPass = driver.FindElement(By.Name("old_passwd"));
             oldPass.SendKeys("testacount");
 
-            IWebElement newPass = driver.FindElement(By.Name("passwd"));
-            newPass.SendKeys("testacount1");
-
-            IWebElement Confirm = driver.FindElement(By.Name("confirmation"));
-            Confirm.SendKeys("testacount1");
-
             IWebElement SaveButton = driver.FindElement(By.Name("submitIdentity"));
             SaveButton.Click();
             
